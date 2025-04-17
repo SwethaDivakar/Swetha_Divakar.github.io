@@ -1,0 +1,12 @@
+# 🔐 Password Strength Checker
+
+A simple Python-based command-line tool to check password strength based on common security criteria.
+
+## 🚀 Features
+- Checks for:
+  - Minimum length (8+ characters)
+  - Uppercase and lowercase letters
+  - At least one digit
+  - At least one special symbol
+- Rates password as **Weak**, **Moderate**, or **Strong**
+- Gives suggestions for improvement
