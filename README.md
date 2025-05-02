@@ -1,10 +1,10 @@
-# 👩‍💻 Swetha Divakar – Technical Support Analyst | Cybersecurity Graduate | AI Enthusiast
+👩‍💻 Swetha Divakar – Technical Support Analyst | Cybersecurity Graduate | AI Enthusiast
 
 Welcome to my personal portfolio!
 
 I'm **Swetha Divakar**, a detail-oriented IT professional with over 5 years of experience in **technical support**, **identity & access management**, and **secure software development**. I hold a Master's degree in **Cybersecurity** and currently work as an **AI Analyst**, where I help improve large language models and AI-driven content safety systems.
 
-## 🔍 About Me
+🔍 About Me
 
 - 📍 Based in Minneapolis, MN
 - 🎓 MSc. Cybersecurity – Saint Louis University
@@ -12,7 +12,7 @@ I'm **Swetha Divakar**, a detail-oriented IT professional with over 5 years of e
 - 💻 Skilled in desktop & mobile support, IAM, endpoint security, and enterprise tools like SAP SuccessFactors
 - 🤖 Current work includes **AI safety**, **LLM training**, and **automated moderation**
 
-## 🚀 What You’ll Find Here
+🚀 What You’ll Find Here
 
 - My **technical portfolio website**: [Click here](https://Swetha_Divakar.github.io)
 - Code, scripts, and automation tools for:
@@ -22,13 +22,13 @@ I'm **Swetha Divakar**, a detail-oriented IT professional with over 5 years of e
 - Academic and industry-based **projects**
 - Clean and readable **documentation**
 
-## 🛠 Tools & Tech
+🛠 Tools & Tech
 
-- Languages: `Python`, `Java`, `SQL`, `C#`, `Bash`
+- Languages: `Python`, `SQL`, `Bash`
 - Platforms: `ServiceNow`, `JIRA`, `SAP SuccessFactors`, `Azure`, `Splunk`, `LDAP`
 - Concepts: `IAM`, `ITIL`, `Incident Management`, `Cybersecurity Compliance`
 
-## 📫 Contact Me
+📫 Contact Me
 
 - Email: [swe.divakar@gmail.com](mailto:swe.divakar@gmail.com)
 - LinkedIn: [linkedin.com/in/swetha-divakar-profile](https://linkedin.com/in/swetha-divakar-profile)
