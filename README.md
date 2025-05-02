@@ -14,7 +14,7 @@ I'm **Swetha Divakar**, a detail-oriented IT professional with over 5 years of e
 
 🚀 What You’ll Find Here
 
-- My **technical portfolio website**: [Click here](https://Swetha_Divakar.github.io)
+- My **technical portfolio website**: [Click here](https://swethadivakar.github.io/Swetha_Divakar.github.io/)
 - Code, scripts, and automation tools for:
   - 🛠 IT support & troubleshooting
   - 🔐 Security & compliance
