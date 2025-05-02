@@ -1,12 +1,35 @@
-# 🔐 Password Strength Checker
+🔐 Password Strength Checker (Python + Regex)
 
-A simple Python-based command-line tool to check password strength based on common security criteria.
+This is a simple yet effective password strength checker built in Python using regular expressions.  
+It checks whether a password meets common security standards and provides instant feedback to the user.
 
-## 🚀 Features
-- Checks for:
-  - Minimum length (8+ characters)
-  - Uppercase and lowercase letters
-  - At least one digit
-  - At least one special symbol
-- Rates password as **Weak**, **Moderate**, or **Strong**
-- Gives suggestions for improvement
+---
+
+✅ Features
+
+- Checks if password is at least **8 characters** long  
+- Verifies presence of:
+  - Uppercase letters (A–Z)
+  - Lowercase letters (a–z)
+  - Digits (0–9)
+  - Special characters (!@#$%^&*)
+
+- Provides user-friendly output on whether the password is strong or weak
+
+---
+
+💻 Technologies Used
+
+- Python 3.x  
+- `re` module (Regular Expressions)  
+- Command line interface (CLI)
+
+---
+
+🚀 How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/password-checker.git
+cd password-checker
